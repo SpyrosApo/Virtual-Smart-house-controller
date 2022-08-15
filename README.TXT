@@ -23,3 +23,7 @@ To default σενάριο ασφαλείας είναι το Επίπεδο 0. �
 Η main βρίσκεται στην κλάση Home. Για να ελέγξετε τον κώδικα τρέξτε τη main. 
 Η διεπαφή με τον χρήστη γίνεται με System.out.print(s) και εισαγωγές από το πληκτρολόγιο. 
 Τα βήματα είναι ξεκάθαρα για το κάθε use case, όταν τρέχει ο κώδικας, με κατάλληλα μηνύματα.
+
+English:
+Just run the Home class.
+Warning:The project language is Greek because this code is a project for the university.
