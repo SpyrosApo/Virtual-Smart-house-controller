@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=device_name\ room
+comment1.target=Camera(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getlive_feed()
+comment3.params=
+comment3.target=void\ setlive_feed()
+numComments=4

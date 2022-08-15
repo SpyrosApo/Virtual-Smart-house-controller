@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Visitor
+comment1.params=
+comment1.target=Visitor()
+comment2.params=
+comment2.target=void\ passwordcheck1()
+comment3.params=
+comment3.target=void\ passwordcheck2()
+comment4.params=vis
+comment4.target=void\ delete_vis(int)
+comment5.params=vis\ info
+comment5.target=void\ change_vis(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ getvis_name()
+comment7.params=
+comment7.target=java.lang.String\ getvis_surname()
+comment8.params=
+comment8.target=java.lang.String\ getvis_password()
+numComments=9

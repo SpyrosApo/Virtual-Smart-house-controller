@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Appliance
+comment1.params=device_name\ room
+comment1.target=Appliance(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getdevice_name()
+comment3.params=
+comment3.target=boolean\ getopen()
+comment4.params=
+comment4.target=boolean\ getdamaged()
+comment5.params=
+comment5.target=void\ setopen()
+comment6.params=
+comment6.target=void\ setclosed()
+comment7.params=
+comment7.target=void\ setopensec()
+comment8.params=
+comment8.target=void\ setclosedsec()
+numComments=9

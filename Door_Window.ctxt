@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Door_Window
+comment1.params=device_name\ room\ room1\ external
+comment1.target=Door_Window(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment10.params=
+comment10.target=void\ lockdwsec()
+comment11.params=
+comment11.target=void\ unlockdwsec()
+comment2.params=
+comment2.target=boolean\ getlocked()
+comment3.params=device_name\ room
+comment3.target=Door_Window(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ closedw()
+comment5.params=
+comment5.target=void\ opendw()
+comment6.params=
+comment6.target=void\ lockdw()
+comment7.params=
+comment7.target=void\ unlockdw()
+comment8.params=
+comment8.target=void\ closedwsec()
+comment9.params=
+comment9.target=void\ opendwsec()
+numComments=12

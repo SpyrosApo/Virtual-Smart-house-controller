@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=room_name
+comment1.target=Room(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getroom_name()
+numComments=3

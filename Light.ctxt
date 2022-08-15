@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Light
+comment1.params=device_name\ room
+comment1.target=Light(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=int\ getblue()
+comment11.params=
+comment11.target=int\ getred()
+comment2.params=
+comment2.target=boolean\ getLight_Track()
+comment3.params=
+comment3.target=void\ setLight_Track()
+comment4.params=red
+comment4.target=void\ setred(int)
+comment5.params=blue
+comment5.target=void\ setblue(int)
+comment6.params=green
+comment6.target=void\ setgreen(int)
+comment7.params=dimmer
+comment7.target=void\ setdimmer(int)
+comment8.params=
+comment8.target=int\ getdimmer()
+comment9.params=
+comment9.target=int\ getgreen()
+numComments=12
